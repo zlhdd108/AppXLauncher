@@ -36,3 +36,4 @@ jobs:
       with:
         name: AppXLauncher32.pdb
         path: Release/AppXLauncher32.pdb
+        
